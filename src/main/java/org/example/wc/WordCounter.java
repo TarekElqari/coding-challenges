@@ -8,6 +8,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 public class WordCounter {
+    public static final String ERROR = "An error occurred while reading the file: ";
     private static final Logger LOGGER = Logger.getLogger(WordCounter.class.getName());
     public static long howManyCharsInTheFile(String filePath) {
         long charsCounter = 0;
@@ -19,7 +20,7 @@ public class WordCounter {
                 }
             }
         } catch (IOException e) {
-            LOGGER.log(Level.SEVERE, () -> "An error occurred while reading the file: " + e.getMessage());
+            LOGGER.log(Level.SEVERE, () -> ERROR +" +" + e.getMessage());
         }
         return charsCounter;
     }
@@ -33,7 +34,7 @@ public class WordCounter {
                 }
             }
         } catch (IOException e) {
-            LOGGER.log(Level.SEVERE, () -> "An error occurred while reading the file: " + e.getMessage());
+            LOGGER.log(Level.SEVERE, () -> ERROR +" +" + e.getMessage());
         }
         return lineCounter;
     }
@@ -46,7 +47,7 @@ public class WordCounter {
                 numberOfWords += words.length;
             }
         } catch (IOException e) {
-            LOGGER.log(Level.SEVERE, () -> "An error occurred while reading the file: " + e.getMessage());
+            LOGGER.log(Level.SEVERE, () -> ERROR +" +" + e.getMessage());
         }
         return numberOfWords;
     }

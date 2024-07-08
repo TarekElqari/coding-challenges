@@ -12,3 +12,7 @@ A
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+\
+,src/main/java/org/example/wc/SecondMain.java,1\4\144fae7eef9e3a55998ff2e21f2bbee0738f828c
+f
+6src/main/java/org/example/wordcounter/WordCounter.java,1\8\18930ad9c50f1c4e851115f2c524b99dd1b940a9

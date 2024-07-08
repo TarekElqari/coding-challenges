@@ -1,0 +1,19 @@
+
+‘
+java:S1192"IDefine a constant instead of duplicating this literal "%8d %s%n" 4 times.(’×ü¦ûÿÿÿÿ8åà¿öˆ2J$2c5fc4b0-9a0c-4148-950e-c26ea38c9f28
+r	java:S106"+Replace this use of System.out by a logger.(Šõÿÿÿÿÿ8ıà¿öˆ2J$a43d469a-20d1-4a07-b6bf-d72a5f561826
+r	java:S106"+Replace this use of System.out by a logger.(’×ü¦ûÿÿÿÿ8şà¿öˆ2J$a27abff6-787a-4949-b676-b54e76ae1373
+m	java:S106""+Replace this use of System.out by a logger.(º’ÎŒ8şà¿öˆ2J$47370c7a-5e46-43ed-a6ca-5be2a91223c1
+r	java:S106("+Replace this use of System.out by a logger.(˜Çºëúÿÿÿÿ8ÿà¿öˆ2J$56cdefab-a360-4f5c-b8cc-5c02d99bb0a2
+r	java:S106."+Replace this use of System.out by a logger.(¢ğ„üÿÿÿÿ8ÿà¿öˆ2J$6ee7e440-03e1-4ea3-9ba0-00ae72eeafef
+m	java:S1067"+Replace this use of System.out by a logger.(†“’8€á¿öˆ2J$fc7d4ff3-e422-42bf-8d96-abacf25f08e3
+p
+java:S1481@"-Remove this unused "charRead" local variable.(à…ŒŒ8‚á¿öˆ2J$dd470490-4680-4b3a-9406-488e431d4397
+
+java:S3457E"KFormat specifiers or lambda should be used instead of string concatenation.(æ›öŒ8ƒá¿öˆ2J$4c6edfc5-7f34-43b4-8256-fb757840086a
+k
+java:S1481M")Remove this unused "line" local variable.(çäªq8…á¿öˆ2J$2638e309-da1f-4dd0-8b9b-0f589aae9337
+
+java:S3457R"KFormat specifiers or lambda should be used instead of string concatenation.(æ›öŒ8…á¿öˆ2J$293f249c-c33f-45af-a926-1cb359e55b09
+
+java:S3457`"KFormat specifiers or lambda should be used instead of string concatenation.(æ›öŒ8ˆá¿öˆ2J$3ddf0148-f4c0-44b4-a1b9-363a5e64fcee
